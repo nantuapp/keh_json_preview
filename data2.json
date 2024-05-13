@@ -24,6 +24,12 @@
                         "product_url": "https://www.keh.com/shop/nikon-digital-nikon-mh-25a-batt-chgr-en-el-15.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/7/370682_1_1000x1000.JPG",
                         "product_price": 39.88
+                    },
+                    {
+                        "product_name": "Nikon EN-EL15b",
+                        "product_url": "https://www.keh.com/shop/nikon-en-el15b-li-ion-battery-z-series.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/7/379793-2486264_05.jpg",
+                        "product_price": "$45.00 - $49.00"
                     }
                 ],
                 "acc_btn": null
@@ -36,13 +42,13 @@
                         "product_name": "Nikon AF-S NIKKOR 24-70mm f/2.8 E ED VR Autofocus IF Lens {82}",
                         "product_url": "https://www.keh.com/shop/nikon-24-70mm-f-2-8-e-ed-vr-af-s-autofocus-lens-82.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/6/368556-2677378_08.jpg",
-                        "product_price": "$788.69 - $1,164.31"
+                        "product_price": "$804.00 - $1,018.00"
                     },
                     {
                         "product_name": "Nikon AF-S NIKKOR 70-200mm f/2.8 E FL ED VR Autofocus Lens {77} with Tripod Foot",
                         "product_url": "https://www.keh.com/shop/nikon-nikkor-70-200mm-f-2-8-e-fl-ed-if-af-s-swm-vr-autofocus-lens-with-tripod-collar-77-1.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/7/372270-2671577_01.jpg",
-                        "product_price": "$1,393.99 - $1,459.87 "
+                        "product_price": "$1,365.00 - $1,475.00"
                     },
                     {
                         "product_name": "Nikon AF-S NIKKOR 14-24mm f/2.8 G ED Autofocus IF Lens, Black with Built-in Petal Hood",
@@ -53,8 +59,8 @@
                     {
                         "product_name": "Nikon AF-S NIKKOR 105mm f/2.8 G Micro ED VR Autofocus IF Lens {62}",
                         "product_url": "https://www.keh.com/shop/nikon-105mm-f-2-8g-ed-if-af-s-vr-micro-nikkor-lens.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/246530_1_1000x1000",
-                        "product_price": "$291.80  - $390.00"
+                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/246530_1_1000x1000.jpg",
+                        "product_price": "$356.00 - $400.00"
                     }
                 ],
                 "acc_btn": {
@@ -88,7 +94,7 @@
                         "product_name": "Delkin Devices BLACK 325GB CFexpress Type B 1725/1530 MB/s Memory Card",
                         "product_url": "https://www.keh.com/shop/28135472.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/389591-4023566_01.jpg",
-                        "product_price": 297
+                        "product_price": 297.00
                     }
                 ],
                 "acc_btn": null
@@ -104,61 +110,27 @@
                         "product_price": 12.99
                     },
                     {
-                        "product_name": "BlackRapid RS-W2 Camera Sling Strap",
-                        "product_url": "https://www.keh.com/shop/blackrapid-rs-w2-camera-sling-strap.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/386976_1_1000x1000.jpg",
-                        "product_price": 67.95
-                    },
-                    {
                         "product_name": "Peak Design Slide Lite Camera Strap, Midnight Blue, 39-57x1.3 in. (SLL-MN-3)",
                         "product_url": "https://www.keh.com/shop/peak-design-slide-lite-camera-strap-midnight-blue-39-57x1-3-in-sll-mn-3.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/387990-4387637_02.jpg",
-                        "product_price": 59.95
+                        "product_price": 60.00
                     },
                     {
                         "product_name": "Peak Design Slide Camera Strap, Sage Green, 39-57x1.8 in. (SL-SG-3)",
                         "product_url": "https://www.keh.com/shop/peak-design-slide-camera-strap-sage-green-39-57x1-8-in-sl-sg-3.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/387985-4284557_01.jpg",
-                        "product_price": 69.95
+                        "product_price": 70.00
+                    },
+                    {
+                        "product_name": "BlackRapid RS-W2 Camera Sling Strap",
+                        "product_url": "https://www.keh.com/shop/blackrapid-rs-w2-camera-sling-strap.html",
+                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/386976_1_1000x1000.jpg",
+                        "product_price": 68.00
                     }
                 ],
                 "acc_btn": {
                     "btn_name": "Shop all Straps",
                     "btn_url": "https://www.keh.com/shop/accessories/camera-accessories/straps.html"
-                }
-            },
-            {
-                "acc_name": "Backpacks",
-                "css_id": 14,
-                "acc_items": [
-                    {
-                        "product_name": "K&F Concept Camera Multi-Functional Backpack with Rain Cover (14 in. Laptop), Forrest Camo, 19x12x10 in.",
-                        "product_url": "https://www.keh.com/shop/kandf-concept-camera-backpack-rain-cover-14-laptop-slot-camo-19x12x10.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/387877-3562608_01.jpg",
-                        "product_price": 79.99
-                    },
-                    {
-                        "product_name": "K&F Concept Beta 20L Photography Backpack (15.6 in. Laptop), Black, 17.3x11.8x6.7 in.",
-                        "product_url": "https://www.keh.com/shop/28098203.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/389287-3964714_03.jpg",
-                        "product_price": 99.99
-                    },
-                    {
-                        "product_name": "Think Tank Photo BackStory 15 Backpack, Gray/Black, 11x19.8x7.5 in.",
-                        "product_url": "https://www.keh.com/shop/28401682.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/9/390954-4435440_01.jpg",
-                        "product_price": 229.75
-                    },
-                    {
-                        "product_name": "Peak Design Everyday 20L Backpack v2, Ash Gray, 18.1x12.4x6.7 in.",
-                        "product_url": "https://www.keh.com/shop/peak-design-everyday-20l-backpack-v2-ash-gray-18-1x12-4x6-7-in.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/387999-4284659_03.jpg",
-                        "product_price": 279.95
-                    }
-                ],
-                "acc_btn": {
-                    "btn_name": "Shop all Backpacks",
-                    "btn_url": "https://www.keh.com/shop/accessories/bags-cases/backpacks.html"
                 }
             },
             {
@@ -169,25 +141,25 @@
                         "product_name": "Tenba DNA 9 Slim Messenger Bag, Black, 11x8x5.5 in. (638-570)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-9-slim-messenger-bag-638-570-11x8x5-5-black.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386824-3379269_01.jpg",
-                        "product_price": 129.95
+                        "product_price": 130.00
                     },
                     {
                         "product_name": "Tenba DNA 13 Slim Messenger Bag, Blue, 14x11x6.5 in. (638-573)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-13-slim-messenger-bag-638-573-14x11x6-5-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386838-3379278_01.jpg",
-                        "product_price": 179.95
+                        "product_price": 180.00
                     },
                     {
                         "product_name": "Tenba DNA 16 Slim Messenger Bag, Blue, 15.75x12x5.5 in. (638-575)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-16-slim-messenger-bag-638-575-15-75x12x5-5-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386841-3379285_01.jpg",
-                        "product_price": 189.95
+                        "product_price": 190.00
                     },
                     {
                         "product_name": "Peak Design Everyday 13L Messenger v2, Ash Gray, 15.6x14.2x7.5 in.",
                         "product_url": "https://www.keh.com/shop/peak-design-everyday-13l-messenger-v2-ash-gray-15-6x14-2x7-5-in.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/388016-4284695_01.jpg",
-                        "product_price": 229.95
+                        "product_price": 230.00
                     }
                 ],
                 "acc_btn": {
@@ -203,19 +175,25 @@
                         "product_name": "Saramonic Blink 500 B2 2-Person (2-Transmitters) Digital Camera-Mount Wireless Omni Lavalier Microphone System (2.4 GHz), White",
                         "product_url": "https://www.keh.com/shop/28231702.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/9/390013-4180972_01.jpg",
-                        "product_price": 104
+                        "product_price": 104.00
+                    },
+                    {
+                        "product_name": "RODE Wireless GO Compact Digital Wireless Microphone System, Black (2.4GHz)",
+                        "product_url": "https://www.keh.com/shop/rode-go-compact-wireless-microphone-system-black-2-4ghz.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/8/386555-3331875_01.jpg",
+                        "product_price": "$124.00 - $136.00"
                     },
                     {
                         "product_name": "Deity Microphones V-Mic D3 Pro Camera-Mount Shotgun Microphone with Lyre Shoe Shockmount",
                         "product_url": "https://www.keh.com/shop/deity-microphones-v-mic-d3-pro-camera-mount-shotgun-microphone-with-rycote-lyre-shoe-shockmount.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/385676-3172651_02.jpg",
-                        "product_price": "$78.00 -$96.05"
+                        "product_price": "$76.00 -$94.00"
                     },
                     {
-                        "product_name": "RODE Videomic Pro+ On-Camera Shotgun Microphone (VMP+)",
-                        "product_url": "https://www.keh.com/shop/rode-videomic-pro-vmp-on-camera-shotgun-microphone.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/381128-3745613_01_1000x1000.jpg",
-                        "product_price": "$190.91 - $209.09"
+                        "product_name": "RODE VideoMic Pro Compact On-Camera Microphone with Rycote Lyre Shock Mount (VIDEOMIC PRO-R)",
+                        "product_url": "https://www.keh.com/shop/video-general-rode-videomic-pro-with-rycote-suspension-vmp-r-compact-directional-on-camera-microphone.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/i/m/image_890.jpg",
+                        "product_price": "$129.00 - $136.00"
                     }
                 ],
                 "acc_btn": {
@@ -228,10 +206,10 @@
                 "css_id": 18,
                 "acc_items": [
                     {
-                        "product_name": "Vello EXT-ND Autofocus Extension Tube Set 12, 20, 36mm for Nikon F-Mount",
-                        "product_url": "https://www.keh.com/shop/vello-ext-nd-autofocus-extension-tube-set-12-20-36mm-for-nikon-f-mount.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/385031-3064823_01.jpg",
-                        "product_price": "$42.55 - $45.00"
+                        "product_name": "Kenko Auto Extension Tube Set 12, 20, 36mm DG for Nikon",
+                        "product_url": "https://www.keh.com/shop/nikon-autofocus-auto-ext-tube-set-12-20-36mm-dg-kenko.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/5/359217-2167825_08.jpg",
+                        "product_price": 45.00
                     }
                 ],
                 "acc_btn": null
@@ -263,13 +241,13 @@
                         "product_name": "Kirk BL-D850 L-Bracket for Nikon D850",
                         "product_url": "https://www.keh.com/shop/kirk-bl-d850-l-bracket-for-nikon-d850.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/385073-3074066_01.jpg",
-                        "product_price": 65.45
+                        "product_price": "$65.00 - $87.00"
                     },
                     {
-                        "product_name": "Really Right Stuff BD850-L E L-Bracket Set (Base, L-Component) for Nikon D850",
-                        "product_url": "https://www.keh.com/shop/really-right-stuff-bd850-l-e-l-bracket-set-base-l-component-for-nikon-d850.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/380088-4297579_01.jpg",
-                        "product_price": 94.81
+                        "product_name": "Really Right Stuff BMBD18-L Bracket Set (Base, L-Component) for Nikon D850 with MB-D18 Grip",
+                        "product_url": "https://www.keh.com/shop/really-right-stuff-l-bracket-set-bmbd18-bmbd18-l-for-nikon-d850-with-mb-d18-grip-1.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/7/378575-2181255_01.jpg",
+                        "product_price": 189.00
                     }
                 ],
                 "acc_btn": null
@@ -306,22 +284,6 @@
                 "acc_btn": {
                     "btn_name": "Shop all i-TTL Flashes",
                     "btn_url": "https://www.keh.com/shop/lighting/nikon-i-ttl.html"
-                }
-            },
-            {
-                "acc_name": "Monopods & Tripods",
-                "css_id": 22,
-                "acc_items": [
-                    {
-                        "product_name": "Benro HMMA48CS4H Series 4 Carbon Fiber Hybrid Monopod with 3-Leg Locking Base, S4H Head, 4-Section, 27.4-71.7 in.",
-                        "product_url": "https://www.keh.com/shop/28229970.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/9/390006-4180382_03.jpg",
-                        "product_price": 159.95
-                    }
-                ],
-                "acc_btn": {
-                    "btn_name": "Shop all Tripods",
-                    "btn_url": "https://www.keh.com/shop/tripods-monopods.html"
                 }
             }
         ]
@@ -437,61 +399,27 @@
                         "product_price": 12.99
                     },
                     {
-                        "product_name": "BlackRapid RS-W2 Camera Sling Strap",
-                        "product_url": "https://www.keh.com/shop/blackrapid-rs-w2-camera-sling-strap.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/386976_1_1000x1000.jpg",
-                        "product_price": 67.95
-                    },
-                    {
                         "product_name": "Peak Design Slide Lite Camera Strap, Midnight Blue, 39-57x1.3 in. (SLL-MN-3)",
                         "product_url": "https://www.keh.com/shop/peak-design-slide-lite-camera-strap-midnight-blue-39-57x1-3-in-sll-mn-3.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/387990-4387637_02.jpg",
-                        "product_price": 59.95
+                        "product_price": 60.00
                     },
                     {
                         "product_name": "Peak Design Slide Camera Strap, Sage Green, 39-57x1.8 in. (SL-SG-3)",
                         "product_url": "https://www.keh.com/shop/peak-design-slide-camera-strap-sage-green-39-57x1-8-in-sl-sg-3.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/387985-4284557_01.jpg",
-                        "product_price": 69.95
+                        "product_price": 70.00
+                    },
+                    {
+                        "product_name": "BlackRapid RS-W2 Camera Sling Strap",
+                        "product_url": "https://www.keh.com/shop/blackrapid-rs-w2-camera-sling-strap.html",
+                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/386976_1_1000x1000.jpg",
+                        "product_price": 68.00
                     }
                 ],
                 "acc_btn": {
                     "btn_name": "See all Straps",
                     "btn_url": "https://www.keh.com/shop/accessories/camera-accessories/straps.html"
-                }
-            },
-            {
-                "acc_name": "Backpacks",
-                "css_id": 14,
-                "acc_items": [
-                    {
-                        "product_name": "K&F Concept Camera Multi-Functional Backpack with Rain Cover (14 in. Laptop), Forrest Camo, 19x12x10 in.",
-                        "product_url": "https://www.keh.com/shop/kandf-concept-camera-backpack-rain-cover-14-laptop-slot-camo-19x12x10.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/387877-3562608_01.jpg",
-                        "product_price": 79.99
-                    },
-                    {
-                        "product_name": "K&F Concept Beta 20L Photography Backpack (15.6 in. Laptop), Black, 17.3x11.8x6.7 in.",
-                        "product_url": "https://www.keh.com/shop/28098203.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/389287-3964714_03.jpg",
-                        "product_price": 99.99
-                    },
-                    {
-                        "product_name": "Think Tank Photo BackStory 15 Backpack, Gray/Black, 11x19.8x7.5 in.",
-                        "product_url": "https://www.keh.com/shop/28401682.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/9/390954-4435440_01.jpg",
-                        "product_price": 229.75
-                    },
-                    {
-                        "product_name": "Peak Design Everyday 20L Backpack v2, Ash Gray, 18.1x12.4x6.7 in.",
-                        "product_url": "https://www.keh.com/shop/peak-design-everyday-20l-backpack-v2-ash-gray-18-1x12-4x6-7-in.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/387999-4284659_03.jpg",
-                        "product_price": 279.95
-                    }
-                ],
-                "acc_btn": {
-                    "btn_name": "Shop all Backpacks",
-                    "btn_url": "https://www.keh.com/shop/accessories/bags-cases/backpacks.html"
                 }
             },
             {
@@ -502,31 +430,44 @@
                         "product_name": "Tenba DNA 9 Slim Messenger Bag, Black, 11x8x5.5 in. (638-570)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-9-slim-messenger-bag-638-570-11x8x5-5-black.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386824-3379269_01.jpg",
-                        "product_price": 129.95
+                        "product_price": 130.00
                     },
                     {
                         "product_name": "Tenba DNA 13 Slim Messenger Bag, Blue, 14x11x6.5 in. (638-573)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-13-slim-messenger-bag-638-573-14x11x6-5-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386838-3379278_01.jpg",
-                        "product_price": 179.95
+                        "product_price": 180.00
                     },
                     {
                         "product_name": "Tenba DNA 16 Slim Messenger Bag, Blue, 15.75x12x5.5 in. (638-575)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-16-slim-messenger-bag-638-575-15-75x12x5-5-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386841-3379285_01.jpg",
-                        "product_price": 189.95
+                        "product_price": 190.00
                     },
                     {
                         "product_name": "Peak Design Everyday 13L Messenger v2, Ash Gray, 15.6x14.2x7.5 in.",
                         "product_url": "https://www.keh.com/shop/peak-design-everyday-13l-messenger-v2-ash-gray-15-6x14-2x7-5-in.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/388016-4284695_01.jpg",
-                        "product_price": 229.95
+                        "product_price": 230.00
                     }
                 ],
                 "acc_btn": {
                     "btn_name": "Shop all Shoulder Bags",
                     "btn_url": "https://www.keh.com/shop/accessories/bags-cases/shoulder-bags.html"
                 }
+            },
+            {
+                "acc_name": "Cages & Rigs",
+                "css_id": 16,
+                "acc_items": [
+                    {
+                        "product_name": "SmallRig Camera Cage for Canon EOS 5D III, IV (CCC2271)",
+                        "product_url": "https://www.keh.com/shop/28141115.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/8/389643-4258385_01.jpg",
+                        "product_price": 58.00
+                    }
+                ],
+                "acc_btn": null
             },
             {
                 "acc_name": "Mics",
@@ -536,19 +477,25 @@
                         "product_name": "Saramonic Blink 500 B2 2-Person (2-Transmitters) Digital Camera-Mount Wireless Omni Lavalier Microphone System (2.4 GHz), White",
                         "product_url": "https://www.keh.com/shop/28231702.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/9/390013-4180972_01.jpg",
-                        "product_price": 104
+                        "product_price": 104.00
+                    },
+                    {
+                        "product_name": "RODE Wireless GO Compact Digital Wireless Microphone System, Black (2.4GHz)",
+                        "product_url": "https://www.keh.com/shop/rode-go-compact-wireless-microphone-system-black-2-4ghz.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/8/386555-3331875_01.jpg",
+                        "product_price": "$124.00 - $136.00"
                     },
                     {
                         "product_name": "Deity Microphones V-Mic D3 Pro Camera-Mount Shotgun Microphone with Lyre Shoe Shockmount",
                         "product_url": "https://www.keh.com/shop/deity-microphones-v-mic-d3-pro-camera-mount-shotgun-microphone-with-rycote-lyre-shoe-shockmount.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/385676-3172651_02.jpg",
-                        "product_price": "$78.00 -$96.05"
+                        "product_price": "$76.00 -$94.00"
                     },
                     {
-                        "product_name": "RODE Videomic Pro+ On-Camera Shotgun Microphone (VMP+)",
-                        "product_url": "https://www.keh.com/shop/rode-videomic-pro-vmp-on-camera-shotgun-microphone.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/381128-3745613_01_1000x1000.jpg",
-                        "product_price": "$190.91 - $209.09"
+                        "product_name": "RODE VideoMic Pro Compact On-Camera Microphone with Rycote Lyre Shock Mount (VIDEOMIC PRO-R)",
+                        "product_url": "https://www.keh.com/shop/video-general-rode-videomic-pro-with-rycote-suspension-vmp-r-compact-directional-on-camera-microphone.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/i/m/image_890.jpg",
+                        "product_price": "$129.00 - $136.00"
                     }
                 ],
                 "acc_btn": {
@@ -623,22 +570,6 @@
                     "btn_name": "Shop all E-TTL II Flashes",
                     "btn_url": "https://www.keh.com/shop/canon/flashes_canon-e-ttl-ii.html?multi=true"
                 }
-            },
-            {
-                "acc_name": "Monopods & Tripods",
-                "css_id": 22,
-                "acc_items": [
-                    {
-                        "product_name": "Benro HMMA48CS4H Series 4 Carbon Fiber Hybrid Monopod with 3-Leg Locking Base, S4H Head, 4-Section, 27.4-71.7 in.",
-                        "product_url": "https://www.keh.com/shop/28229970.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/9/390006-4180382_03.jpg",
-                        "product_price": 159.95
-                    }
-                ],
-                "acc_btn": {
-                    "btn_name": "Shop all Tripods",
-                    "btn_url": "https://www.keh.com/shop/tripods-monopods.html"
-                }
             }
         ]
     },
@@ -663,10 +594,10 @@
                         "product_price": 49.99
                     },
                     {
-                        "product_name": "Canon Battery Grip BG-E20 for 5D Mark IV",
-                        "product_url": "https://www.keh.com/shop/canon-battery-grip-bg-e20-for-5d-mark-iv-1.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/7/373450-3553136_05.jpg",
-                        "product_price": "$59.40 - $63.00"
+                        "product_name": "Canon Battery Grip BG-R10 For EOS R5, R6 (2X LP-E6NH)",
+                        "product_url": "https://www.keh.com/shop/canon-battery-grip-bg-r10-for-eos-r5-r6-holds-2-lp-e6nh-batteries.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/8/384020-3590526_08.jpg",
+                        "product_price": "$304.00 - $311.00"
                     },
                     {
                         "product_name": "Canon Battery Charger LC-E6",
@@ -737,7 +668,7 @@
                         "product_name": "Delkin Devices BLACK 325GB CFexpress Type B 1725/1530 MB/s Memory Card",
                         "product_url": "https://www.keh.com/shop/28135472.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/389591-4023566_01.jpg",
-                        "product_price": 297
+                        "product_price": 297.00
                     }
                 ],
                 "acc_btn": null
@@ -753,61 +684,27 @@
                         "product_price": 12.99
                     },
                     {
-                        "product_name": "BlackRapid RS-W2 Camera Sling Strap",
-                        "product_url": "https://www.keh.com/shop/blackrapid-rs-w2-camera-sling-strap.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/386976_1_1000x1000.jpg",
-                        "product_price": 67.95
-                    },
-                    {
                         "product_name": "Peak Design Slide Lite Camera Strap, Midnight Blue, 39-57x1.3 in. (SLL-MN-3)",
                         "product_url": "https://www.keh.com/shop/peak-design-slide-lite-camera-strap-midnight-blue-39-57x1-3-in-sll-mn-3.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/387990-4387637_02.jpg",
-                        "product_price": 59.95
+                        "product_price": 60.00
                     },
                     {
                         "product_name": "Peak Design Slide Camera Strap, Sage Green, 39-57x1.8 in. (SL-SG-3)",
                         "product_url": "https://www.keh.com/shop/peak-design-slide-camera-strap-sage-green-39-57x1-8-in-sl-sg-3.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/387985-4284557_01.jpg",
-                        "product_price": 69.95
+                        "product_price": 70.00
+                    },
+                    {
+                        "product_name": "BlackRapid RS-W2 Camera Sling Strap",
+                        "product_url": "https://www.keh.com/shop/blackrapid-rs-w2-camera-sling-strap.html",
+                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/386976_1_1000x1000.jpg",
+                        "product_price": 68.00
                     }
                 ],
                 "acc_btn": {
-                    "btn_name": "Shop all Straps",
+                    "btn_name": "See all Straps",
                     "btn_url": "https://www.keh.com/shop/accessories/camera-accessories/straps.html"
-                }
-            },
-            {
-                "acc_name": "Backpacks",
-                "css_id": 14,
-                "acc_items": [
-                    {
-                        "product_name": "K&F Concept Camera Backpack, Waterproof, 15\" Laptop Slot, Gray 17x11x6\"",
-                        "product_url": "https://www.keh.com/shop/kandf-concept-camera-backpack-waterproof-15-laptop-slot-gray-17x11x6.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/387873-3562436_01.jpg",
-                        "product_price": 69.99
-                    },
-                    {
-                        "product_name": "K&F Concept Beta 20L Photography Backpack (15.6 in. Laptop), Black, 17.3x11.8x6.7 in.",
-                        "product_url": "https://www.keh.com/shop/28098203.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/389287-3964714_03.jpg",
-                        "product_price": 99.99
-                    },
-                    {
-                        "product_name": "Think Tank Photo BackStory 15 Backpack, Gray/Black, 11x19.8x7.5 in.",
-                        "product_url": "https://www.keh.com/shop/28401682.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/9/390954-4435440_01.jpg",
-                        "product_price": 229.75
-                    },
-                    {
-                        "product_name": "Peak Design Everyday 20L Backpack v2, Ash Gray, 18.1x12.4x6.7 in.",
-                        "product_url": "https://www.keh.com/shop/peak-design-everyday-20l-backpack-v2-ash-gray-18-1x12-4x6-7-in.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/387999-4284659_03.jpg",
-                        "product_price": 279.95
-                    }
-                ],
-                "acc_btn": {
-                    "btn_name": "Shop all Backpacks",
-                    "btn_url": "https://www.keh.com/shop/accessories/bags-cases/backpacks.html"
                 }
             },
             {
@@ -818,25 +715,25 @@
                         "product_name": "Tenba DNA 9 Slim Messenger Bag, Black, 11x8x5.5 in. (638-570)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-9-slim-messenger-bag-638-570-11x8x5-5-black.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386824-3379269_01.jpg",
-                        "product_price": 129.95
+                        "product_price": 130.00
                     },
                     {
                         "product_name": "Tenba DNA 13 Slim Messenger Bag, Blue, 14x11x6.5 in. (638-573)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-13-slim-messenger-bag-638-573-14x11x6-5-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386838-3379278_01.jpg",
-                        "product_price": 179.95
+                        "product_price": 180.00
                     },
                     {
                         "product_name": "Tenba DNA 16 Slim Messenger Bag, Blue, 15.75x12x5.5 in. (638-575)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-16-slim-messenger-bag-638-575-15-75x12x5-5-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386841-3379285_01.jpg",
-                        "product_price": 189.95
+                        "product_price": 190.00
                     },
                     {
                         "product_name": "Peak Design Everyday 13L Messenger v2, Ash Gray, 15.6x14.2x7.5 in.",
                         "product_url": "https://www.keh.com/shop/peak-design-everyday-13l-messenger-v2-ash-gray-15-6x14-2x7-5-in.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/388016-4284695_01.jpg",
-                        "product_price": 229.95
+                        "product_price": 230.00
                     }
                 ],
                 "acc_btn": {
@@ -865,19 +762,25 @@
                         "product_name": "Saramonic Blink 500 B2 2-Person (2-Transmitters) Digital Camera-Mount Wireless Omni Lavalier Microphone System (2.4 GHz), White",
                         "product_url": "https://www.keh.com/shop/28231702.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/9/390013-4180972_01.jpg",
-                        "product_price": 104
+                        "product_price": 104.00
+                    },
+                    {
+                        "product_name": "RODE Wireless GO Compact Digital Wireless Microphone System, Black (2.4GHz)",
+                        "product_url": "https://www.keh.com/shop/rode-go-compact-wireless-microphone-system-black-2-4ghz.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/8/386555-3331875_01.jpg",
+                        "product_price": "$124.00 - $136.00"
                     },
                     {
                         "product_name": "Deity Microphones V-Mic D3 Pro Camera-Mount Shotgun Microphone with Lyre Shoe Shockmount",
                         "product_url": "https://www.keh.com/shop/deity-microphones-v-mic-d3-pro-camera-mount-shotgun-microphone-with-rycote-lyre-shoe-shockmount.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/385676-3172651_02.jpg",
-                        "product_price": "$78.00 -$96.05"
+                        "product_price": "$76.00 -$94.00"
                     },
                     {
-                        "product_name": "RODE Videomic Pro+ On-Camera Shotgun Microphone (VMP+)",
-                        "product_url": "https://www.keh.com/shop/rode-videomic-pro-vmp-on-camera-shotgun-microphone.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/381128-3745613_01_1000x1000.jpg",
-                        "product_price": "$190.91 - $209.09"
+                        "product_name": "RODE VideoMic Pro Compact On-Camera Microphone with Rycote Lyre Shock Mount (VIDEOMIC PRO-R)",
+                        "product_url": "https://www.keh.com/shop/video-general-rode-videomic-pro-with-rycote-suspension-vmp-r-compact-directional-on-camera-microphone.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/i/m/image_890.jpg",
+                        "product_price": "$129.00 - $136.00"
                     }
                 ],
                 "acc_btn": {
@@ -899,7 +802,7 @@
                         "product_name": "Canon Drop-In Filter Mount Adapter EF-EOS R with Circular Polarizer Filter A",
                         "product_url": "https://www.keh.com/shop/canon-drop-in-filter-mount-adapter-ef-eos-r-mirrorless-with-circular-polarizer-a-filter.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/380512-3562979_02.jpg",
-                        "product_price": 246
+                        "product_price": 246.00
                     },
                     {
                         "product_name": "Canon Mount Adapter EF-EOS R 0.71x for EF-Mount Lens to Cine, and Mirrorless RF-Mount",
@@ -956,22 +859,6 @@
                     "btn_name": "Shop all E-TTL II Flashes",
                     "btn_url": "https://www.keh.com/shop/canon/flashes_canon-e-ttl-ii.html?multi=true"
                 }
-            },
-            {
-                "acc_name": "Monopods & Tripods",
-                "css_id": 22,
-                "acc_items": [
-                    {
-                        "product_name": "Benro HMMA48CS4H Series 4 Carbon Fiber Hybrid Monopod with 3-Leg Locking Base, S4H Head, 4-Section, 27.4-71.7 in.",
-                        "product_url": "https://www.keh.com/shop/28229970.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/9/390006-4180382_03.jpg",
-                        "product_price": 159.95
-                    }
-                ],
-                "acc_btn": {
-                    "btn_name": "Shop all Tripods",
-                    "btn_url": "https://www.keh.com/shop/tripods-monopods.html"
-                }
             }
         ]
     },
@@ -996,10 +883,10 @@
                         "product_price": 49.99
                     },
                     {
-                        "product_name": "Canon Battery Grip BG-E20 for 5D Mark IV",
-                        "product_url": "https://www.keh.com/shop/canon-battery-grip-bg-e20-for-5d-mark-iv-1.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/7/373450-3553136_05.jpg",
-                        "product_price": "$59.40 - $63.00"
+                        "product_name": "Canon Battery Grip BG-R10 For EOS R5, R6 (2X LP-E6NH)",
+                        "product_url": "https://www.keh.com/shop/canon-battery-grip-bg-r10-for-eos-r5-r6-holds-2-lp-e6nh-batteries.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/8/384020-3590526_08.jpg",
+                        "product_price": "$304.00 - $311.00"
                     },
                     {
                         "product_name": "Canon Battery Charger LC-E6",
@@ -1070,7 +957,7 @@
                         "product_name": "Delkin Devices BLACK 325GB CFexpress Type B 1725/1530 MB/s Memory Card",
                         "product_url": "https://www.keh.com/shop/28135472.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/389591-4023566_01.jpg",
-                        "product_price": 297
+                        "product_price": 297.00
                     }
                 ],
                 "acc_btn": null
@@ -1086,61 +973,27 @@
                         "product_price": 12.99
                     },
                     {
-                        "product_name": "BlackRapid RS-W2 Camera Sling Strap",
-                        "product_url": "https://www.keh.com/shop/blackrapid-rs-w2-camera-sling-strap.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/386976_1_1000x1000.jpg",
-                        "product_price": 67.95
-                    },
-                    {
                         "product_name": "Peak Design Slide Lite Camera Strap, Midnight Blue, 39-57x1.3 in. (SLL-MN-3)",
                         "product_url": "https://www.keh.com/shop/peak-design-slide-lite-camera-strap-midnight-blue-39-57x1-3-in-sll-mn-3.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/387990-4387637_02.jpg",
-                        "product_price": 59.95
+                        "product_price": 60.00
                     },
                     {
                         "product_name": "Peak Design Slide Camera Strap, Sage Green, 39-57x1.8 in. (SL-SG-3)",
                         "product_url": "https://www.keh.com/shop/peak-design-slide-camera-strap-sage-green-39-57x1-8-in-sl-sg-3.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/387985-4284557_01.jpg",
-                        "product_price": 69.95
+                        "product_price": 70.00
+                    },
+                    {
+                        "product_name": "BlackRapid RS-W2 Camera Sling Strap",
+                        "product_url": "https://www.keh.com/shop/blackrapid-rs-w2-camera-sling-strap.html",
+                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/386976_1_1000x1000.jpg",
+                        "product_price": 68.00
                     }
                 ],
                 "acc_btn": {
-                    "btn_name": "Shop all Straps",
+                    "btn_name": "See all Straps",
                     "btn_url": "https://www.keh.com/shop/accessories/camera-accessories/straps.html"
-                }
-            },
-            {
-                "acc_name": "Backpacks",
-                "css_id": 14,
-                "acc_items": [
-                    {
-                        "product_name": "K&F Concept Camera Backpack, Waterproof, 15\" Laptop Slot, Gray 17x11x6\"",
-                        "product_url": "https://www.keh.com/shop/kandf-concept-camera-backpack-waterproof-15-laptop-slot-gray-17x11x6.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/387873-3562436_01.jpg",
-                        "product_price": 69.99
-                    },
-                    {
-                        "product_name": "K&F Concept Beta 20L Photography Backpack (15.6 in. Laptop), Black, 17.3x11.8x6.7 in.",
-                        "product_url": "https://www.keh.com/shop/28098203.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/389287-3964714_03.jpg",
-                        "product_price": 99.99
-                    },
-                    {
-                        "product_name": "Think Tank Photo BackStory 15 Backpack, Gray/Black, 11x19.8x7.5 in.",
-                        "product_url": "https://www.keh.com/shop/28401682.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/9/390954-4435440_01.jpg",
-                        "product_price": 229.75
-                    },
-                    {
-                        "product_name": "Peak Design Everyday 20L Backpack v2, Ash Gray, 18.1x12.4x6.7 in.",
-                        "product_url": "https://www.keh.com/shop/peak-design-everyday-20l-backpack-v2-ash-gray-18-1x12-4x6-7-in.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/8/387999-4284659_03.jpg",
-                        "product_price": 279.95
-                    }
-                ],
-                "acc_btn": {
-                    "btn_name": "Shop all Backpacks",
-                    "btn_url": "https://www.keh.com/shop/accessories/bags-cases/backpacks.html"
                 }
             },
             {
@@ -1151,25 +1004,25 @@
                         "product_name": "Sirui MyStory Mini Camera Bag, Indigo Blue, 10.2x3.9x7.1 in.",
                         "product_url": "https://www.keh.com/shop/sirui-mystory-mini-camera-bag-indigo-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/385647-3173271_01.jpg",
-                        "product_price": 44.95
+                        "product_price": 45.00
                     },
                     {
                         "product_name": "Tenba DNA 13 Slim Messenger Bag, Blue, 14x11x6.5 in. (638-573)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-13-slim-messenger-bag-638-573-14x11x6-5-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386838-3379278_01.jpg",
-                        "product_price": 179.95
+                        "product_price": 180.00
                     },
                     {
                         "product_name": "Tenba DNA 16 Slim Messenger Bag, Blue, 15.75x12x5.5 in. (638-575)",
                         "product_url": "https://www.keh.com/shop/tenba-dna-16-slim-messenger-bag-638-575-15-75x12x5-5-blue.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/386841-3379285_01.jpg",
-                        "product_price": 189.95
+                        "product_price": 190.00
                     },
                     {
                         "product_name": "Peak Design Everyday 13L Messenger v2, Ash Gray, 15.6x14.2x7.5 in.",
                         "product_url": "https://www.keh.com/shop/peak-design-everyday-13l-messenger-v2-ash-gray-15-6x14-2x7-5-in.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/388016-4284695_01.jpg",
-                        "product_price": 229.95
+                        "product_price": 230.00
                     }
                 ],
                 "acc_btn": {
@@ -1198,19 +1051,25 @@
                         "product_name": "Saramonic Blink 500 B2 2-Person (2-Transmitters) Digital Camera-Mount Wireless Omni Lavalier Microphone System (2.4 GHz), White",
                         "product_url": "https://www.keh.com/shop/28231702.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/9/390013-4180972_01.jpg",
-                        "product_price": 104
+                        "product_price": 104.00
+                    },
+                    {
+                        "product_name": "RODE Wireless GO Compact Digital Wireless Microphone System, Black (2.4GHz)",
+                        "product_url": "https://www.keh.com/shop/rode-go-compact-wireless-microphone-system-black-2-4ghz.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/3/8/386555-3331875_01.jpg",
+                        "product_price": "$124.00 - $136.00"
                     },
                     {
                         "product_name": "Deity Microphones V-Mic D3 Pro Camera-Mount Shotgun Microphone with Lyre Shoe Shockmount",
                         "product_url": "https://www.keh.com/shop/deity-microphones-v-mic-d3-pro-camera-mount-shotgun-microphone-with-rycote-lyre-shoe-shockmount.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/385676-3172651_02.jpg",
-                        "product_price": "$78.00 -$96.05"
+                        "product_price": "$76.00 -$94.00"
                     },
                     {
-                        "product_name": "RODE Videomic Pro+ On-Camera Shotgun Microphone (VMP+)",
-                        "product_url": "https://www.keh.com/shop/rode-videomic-pro-vmp-on-camera-shotgun-microphone.html",
-                        "image_url": "https://www.keh.com/media/wysiwyg/cms/additional_product_images/381128-3745613_01_1000x1000.jpg",
-                        "product_price": "$190.91 - $209.09"
+                        "product_name": "RODE VideoMic Pro Compact On-Camera Microphone with Rycote Lyre Shock Mount (VIDEOMIC PRO-R)",
+                        "product_url": "https://www.keh.com/shop/video-general-rode-videomic-pro-with-rycote-suspension-vmp-r-compact-directional-on-camera-microphone.html",
+                        "image_url": "https://www.keh.com/media/catalog/product/i/m/image_890.jpg",
+                        "product_price": "$129.00 - $136.00"
                     }
                 ],
                 "acc_btn": {
@@ -1232,13 +1091,13 @@
                         "product_name": "Canon Drop-In Filter Mount Adapter EF-EOS R with Circular Polarizer Filter A",
                         "product_url": "https://www.keh.com/shop/canon-drop-in-filter-mount-adapter-ef-eos-r-mirrorless-with-circular-polarizer-a-filter.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/380512-3562979_02.jpg",
-                        "product_price": 246
+                        "product_price": 246.00
                     },
                     {
                         "product_name": "Canon Mount Adapter EF-EOS R 0.71x for EF-Mount Lens to Cine, and Mirrorless RF-Mount",
                         "product_url": "https://www.keh.com/shop/27967367.html",
                         "image_url": "https://www.keh.com/media/catalog/product/3/8/388677-3772566_02.jpg",
-                        "product_price": "$412.00 - $499.62 "
+                        "product_price": "$412.00 - $499.62"
                     }
                 ],
                 "acc_btn": null
@@ -1288,22 +1147,6 @@
                 "acc_btn": {
                     "btn_name": "Shop all E-TTL II Flashes",
                     "btn_url": "https://www.keh.com/shop/canon/flashes_canon-e-ttl-ii.html?multi=true"
-                }
-            },
-            {
-                "acc_name": "Monopods & Tripods",
-                "css_id": 22,
-                "acc_items": [
-                    {
-                        "product_name": "Benro HMMA48CS4H Series 4 Carbon Fiber Hybrid Monopod with 3-Leg Locking Base, S4H Head, 4-Section, 27.4-71.7 in.",
-                        "product_url": "https://www.keh.com/shop/28229970.html",
-                        "image_url": "https://www.keh.com/media/catalog/product/3/9/390006-4180382_03.jpg",
-                        "product_price": 159.95
-                    }
-                ],
-                "acc_btn": {
-                    "btn_name": "Shop all Tripods",
-                    "btn_url": "https://www.keh.com/shop/tripods-monopods.html"
                 }
             }
         ]
